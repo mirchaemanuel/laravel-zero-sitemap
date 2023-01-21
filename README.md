@@ -1,5 +1,9 @@
 
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
+# Laravel-Zero Sitemap
+
+Forked from the wonderful Spatie package to allow usage on Laravel-Zero.
+
+Work in progress...
 
 # Generate sitemaps with ease
 

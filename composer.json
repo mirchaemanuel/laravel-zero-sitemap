@@ -1,13 +1,22 @@
 {
-    "name": "spatie/laravel-sitemap",
-    "description": "Create and generate sitemaps with ease",
+    "name": "a80/laravel-zero-sitemap",
+    "description": "Create and generate sitemaps with ease. Forked from spatie/laravel-sitemap",
     "keywords": [
         "spatie",
+        "laravel-zero-sitemap",
+        "laravel-zero",
         "laravel-sitemap"
+
     ],
-    "homepage": "https://github.com/spatie/laravel-sitemap",
+    "homepage": "https://github.com/mirchaemanuel/laravel-zero-sitemap",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Mircha Emanuel D'Angelo",
+            "email": "m@a80.it",
+            "homepage": "https://a80.it",
+            "role": "Developer"
+        },
         {
             "name": "Freek Van der Herten",
             "email": "freek@spatie.be",
